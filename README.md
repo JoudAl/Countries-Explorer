@@ -16,3 +16,4 @@ You have to have [Node.js] installed on your computer.
    npm run dev
    ```
 4. Open your web browser and navigate to the local URL provided in the terminal.
+# Countries-Explorer
